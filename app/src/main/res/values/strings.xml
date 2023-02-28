@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioPlayer_ver_dev.0.2</string>
+    <string name="pause">pause</string>
+    <string name="media_url_mp3">https://storage.googleapis.com/exoplayer-test-media-0/Jazz_In_Paris.mp3</string>
+</resources>
